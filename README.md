@@ -1,7 +1,7 @@
 # Hi, I'm Utsav Chopra 👋
 
 Final-year B.Tech CSE (AI & Data Science) student at PIET, graduating 2027.
-I build AI/ML products: RAG systems, multi-agent workflows, and data science projects.
+I engineer AI-driven solutions: RAG systems, multi-agent workflows, and machine learning models.
 
 ## 🚀 Featured Projects
 
